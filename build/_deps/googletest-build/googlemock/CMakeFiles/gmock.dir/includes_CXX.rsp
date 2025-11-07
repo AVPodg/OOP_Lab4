@@ -1,0 +1,1 @@
+-I"D:/OOP4/build/_deps/googletest-src/googlemock/include" -I"D:/OOP4/build/_deps/googletest-src/googlemock" -isystem "D:/OOP4/build/_deps/googletest-src/googletest/include" -isystem "D:/OOP4/build/_deps/googletest-src/googletest"
